@@ -170,11 +170,10 @@ EMAIL_HOST_USER = 'ortizandres94@misena.edu.co'
 EMAIL_HOST_PASsWORD = 'capricornio1'
 EMAIL_USE_TLS = True
 
-'''REST_FRAMEWORK = {
+REST_FRAMEWORK = {
     # Use Django's standard `django.contrib.auth` permissions,
     # or allow read-only access for unauthenticated users.
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
     ]
 }
-'''
